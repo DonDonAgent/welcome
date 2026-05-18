@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DonDonAgent/DonDonAgent/main/profile-photo.jpg" width="200" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/DonDonAgent/DonDonAgent/main/profile-photo.jpg" width="320" style="border-radius:50%">
 
   <h1>Ivan DonDonBerry</h1>
   <h3>Artist learning to build AI systems. Zero experience. Two weeks in.</h3>
