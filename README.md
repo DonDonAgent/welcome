@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DonDonAgent/DonDonAgent/main/profile-photo.jpg" width="200" style="border-radius:50%">
 
-  <h1>Ivan Yagoda</h1>
+  <h1>Ivan DonDonBerry</h1>
   <h3>Artist learning to build AI systems. Zero experience. Two weeks in.</h3>
 </div>
 
 ---
 
-I'm a mural artist from Siberia, now living in Estepona, Spain. For the last decade I've painted walls — 400 square meters, 11 cities, clients like Sber and Leroy Merlin. That's what I know how to do.
+I'm a mural artist from Siberia, now living in Spain. For the last decade I've painted walls — 400 square meters, 11 cities, clients like Leroy Merlin and IKEA. That's what I know how to do.
 
 Two weeks ago — around **May 4, 2026** — I decided to learn AI. Not as a hobby. As the foundation of everything I build next.
 
-I can't code. I've never worked in tech. I run my entire operation from a **2018 MacBook Air** and an iPhone. What I have is an architectural mindset and a clear vision: systems that work while I sleep.
+I can't code. I've never worked in tech. I run my entire operation from a MacBook Air and an iPhone. What I have is an architectural mindset and a clear vision: systems that work while I sleep.
 
 This GitHub is my learning in public. Every repo, every commit — raw, unfiltered.
 
