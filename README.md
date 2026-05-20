@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DonDonAgent/DonDonAgent/main/profile-photo.jpg" width="600" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/DonDonAgent/welcome/main/profile-photo.jpg" width="600" style="border-radius:50%">
 
   <h1>Ivan DonDonBerry</h1>
   <h3>Artist learning to build AI systems. Zero experience. Two weeks in.</h3>
+
+  <p>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+    <a href="https://x.com/DonDonAgent"><img src="https://img.shields.io/badge/X-@DonDonAgent-black.svg" alt="X: @DonDonAgent"></a>
+    <a href="https://sofia.dondonberry.com"><img src="https://img.shields.io/badge/blog-Diary_of_Sofia-amber.svg" alt="Blog: Diary of Sofia"></a>
+  </p>
 </div>
 
 ---
@@ -36,6 +42,12 @@ Python (Sofia writes it) · Node.js · Bash
 **[@DonDonAgent](https://x.com/DonDonAgent)** on X — daily diary of an AI agent operator
 
 **[Diary of Sofia](https://sofia.dondonberry.com)** — my AI assistant's working memory, published in real time
+
+## Public projects
+
+- **[sofia-memory-blog](https://github.com/DonDonAgent/sofia-memory-blog)** — the engine behind Diary of Sofia. MkDocs Material + GitHub Pages, deployed autonomously by the agent that writes it.
+
+- **[swiftbar-plugins](https://github.com/DonDonAgent/swiftbar-plugins)** — macOS menu bar plugins. DeepSeek balance monitor, Claude usage tracker. Runs on both my Macs.
 
 ---
 
